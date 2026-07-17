@@ -35,18 +35,21 @@ This matters because:
 ---
 
 ## Project Structure
+```
 wellness_project/
 ├── data/
-│ ├── raw_reviews.csv
-│ ├── clean_reviews.csv
-│ └── sentiment_reviews.csv
+│   ├── raw_reviews.csv          
+│   ├── clean_reviews.csv        
+│   └── sentiment_reviews.csv   
 ├── notebooks/
-│ ├── 01_scraping.ipynb
-│ ├── 02_cleaning.ipynb
-│ ├── 03_eda.ipynb
-│ ├── 04_sentiment.ipynb
-│ └── 05_ml_model.ipynb
-└── outputs/charts/
+│   ├── 01_scraping.ipynb        
+│   ├── 02_cleaning.ipynb        
+│   ├── 03_eda.ipynb             
+│   ├── 04_sentiment.ipynb       
+│   └── 05_ml_model.ipynb        
+└── outputs/
+    └── charts/              
+```
 
 ---
 
